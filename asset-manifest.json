@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-sarobidy/static/css/main.0e24fe84.css",
+    "main.js": "/portfolio-sarobidy/static/js/main.54d9f8a8.js",
+    "static/js/453.e9856bff.chunk.js": "/portfolio-sarobidy/static/js/453.e9856bff.chunk.js",
+    "static/media/profile-sarobidy.png": "/portfolio-sarobidy/static/media/profile-sarobidy.3074d9ba7ca0ddb5d3aa.png",
+    "index.html": "/portfolio-sarobidy/index.html",
+    "main.0e24fe84.css.map": "/portfolio-sarobidy/static/css/main.0e24fe84.css.map",
+    "main.54d9f8a8.js.map": "/portfolio-sarobidy/static/js/main.54d9f8a8.js.map",
+    "453.e9856bff.chunk.js.map": "/portfolio-sarobidy/static/js/453.e9856bff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e24fe84.css",
+    "static/js/main.54d9f8a8.js"
+  ]
+}
